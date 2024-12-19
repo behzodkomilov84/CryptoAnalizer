@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class ConsoleRunner {
     public static void main(String[] args) {
-
+        // encode data.txt encrypted.txt 12
         Application application = new Application();
         Result result = application.run(args);
         System.out.println(result);
