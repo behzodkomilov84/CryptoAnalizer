@@ -2,8 +2,6 @@ package ru.javarush.behzod_komilov.cryptoanalizer;
 
 import ru.javarush.behzod_komilov.cryptoanalizer.entity.Result;
 
-import java.util.Arrays;
-
 public class ConsoleRunner {
     public static void main(String[] args) {
         // encode data.txt encrypted.txt 12
